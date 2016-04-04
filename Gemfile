@@ -53,3 +53,4 @@ gem 'carrierwave'
 gem "fog"
 gem 'excon','0.45.4'
 gem 'figaro'
+gem 'mini_magick'
